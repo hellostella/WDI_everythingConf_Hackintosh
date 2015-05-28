@@ -10,7 +10,6 @@ Learning Objectives
 - Where are my resources for building one?
 
 # My Interests in building a Hackintosh
-- Story time!
 
 # What is a Hackintosh?
 - A "Hackintosh" is a custom built computer of non apple hardware, that runs OS X. While it doesn't necessarily have to be a
