@@ -25,10 +25,12 @@ custom built computer, in most cases it is as it needs to meet specific hardware
 - Well, first off you will need to determine what you are building your machine for in terms of how will you be using it?
 - From here you will need to translate these needs into the hardware required: 
 - The basic needs are:
--             - 8GB + Thumb Drive (for installing OSX later on)
--             
--             - Motherboard - Most Gigabyte Brand Boards work best (ASUS/ASrock also doable) 
--             
+- 
+
+              - 8GB + Thumb Drive (for installing OSX later on)
+            
+              - Motherboard - Most Gigabyte Brand Boards work best (ASUS/ASrock also doable) 
+             
               - CPU - Stick with an Intel Based CPU (Core i3/i5/i7 depending on needs), AMD is possible but discouraged as it is difficult
               
               - RAM - 8GB + (Crucial Brand recommended) 
