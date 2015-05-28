@@ -57,7 +57,7 @@ custom built computer, in most cases it is as it needs to meet specific hardware
 # Troubleshooting
 - For me personally, I enjoy this process as when I first started building my first Hackintosh the documentation was not nearly as good as it is today. Supported builds were still disputed (with Snow Leopard/Lion), and the process to getting the machine actually to be completely functional was extremelty difficult. However, today the community has grown immensely and there are document builds you can follow excactly, or just sources of compatible hardware, walkthroughs, and support forms. Once you take the step towards building a Hackintosh and encounter issues, do not get discouraged this is where the fun begins! 
 - Much like programming, breaking down the errors you are encountering into smaller issues and solving one issue at a time helps and attaining those EASY WINS are essential. 
-- Before you know it you will have your very own Hackintosh rivaling that of even the newest Mac Pro released by Apple. 
+- Before you know it you will have your very own Hackintosh rivaling that of even the newest Mac Pro released by Apple (well...maybe not, the new mac pro is pretty impressive, but for the cost you can definitely rival it!) 
 - 
 # Docs, Support, and Community!
 - http://www.tonymacx86.com/ - Everything you could every want to know and more! Hardware compability, Pre-Builds, Forums, Support, etc! 
