@@ -6,7 +6,8 @@ Learning Objectives
 
 - What the heck is a Hackintosh?
 - Why would one want to build one?
-- what are the benefits of building one?
+- What are the benefits of building one?
+- Where are my resources for building one?
 
 # My Interests in building a Hackintosh
 - Story time!
