@@ -29,7 +29,7 @@ custom built computer, in most cases it is as it needs to meet specific hardware
 
               - 8GB + Thumb Drive (for installing OSX later on)
             
-              - Motherboard - Most Gigabyte Brand Boards work best (ASUS/ASrock also doable) 
+              - Motherboard - Most Gigabyte Brand Boards work best (ASUS/ASrock also doable) ATX/mATX/ITX should not matter
              
               - CPU - Stick with an Intel Based CPU (Core i3/i5/i7 depending on needs), AMD is possible but discouraged as it is difficult
               
@@ -39,7 +39,13 @@ custom built computer, in most cases it is as it needs to meet specific hardware
               
               - HDD - Depending on needs and use, a second HDD is recommended storage
               
-              - GPU - NVIDIA - Most natively supported without need for additional drivers with Yosemite (again this depends on your needs and what your build will be for) 
+              - GPU - NVIDIA - Most natively supported without need for additional drivers with Yosemite (again this depends on your needs and what your build will be for, can potential utilize built in CPU graphics to power graphics depending on needs)
+              
+              - Wifi Card - Depending on the features & compatibility for motherboard 
+              
+              - Power Supply - Most should be compatible, check requirements depending on other selected hardware above 
+              
+              - Case - Be creative, select any case you like (make sure it is correct size for motherboard/components) * Props if you convert an old G5 case into your new Hackintosh)
 
 
 # So...How do I build one? 
