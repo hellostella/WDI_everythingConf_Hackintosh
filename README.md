@@ -26,11 +26,17 @@ custom built computer, in most cases it is as it needs to meet specific hardware
 - From here you will need to translate these needs into the hardware required: 
 - The basic needs are:
 -             - 8GB + Thumb Drive (for installing OSX later on)
+-             
 -             - Motherboard - Most Gigabyte Brand Boards work best (ASUS/ASrock also doable) 
+-             
               - CPU - Stick with an Intel Based CPU (Core i3/i5/i7 depending on needs), AMD is possible but discouraged as it is difficult
+              
               - RAM - 8GB + (Crucial Brand recommended) 
-              - SSD - Solid State Drive - Best for OSX - Recommend SAMSUNG (though brand should not make a difference here) 
+              
+              - SSD - Solid State Drive - Best for OSX - Recommend SAMSUNG (though brand should not make a difference here)
+              
               - HDD - Depending on needs and use, a second HDD is recommended storage
+              
               - GPU - NVIDIA - Most natively supported without need for additional drivers with Yosemite (again this depends on your needs and what your build will be for) 
 
 
