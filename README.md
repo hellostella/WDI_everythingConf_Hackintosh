@@ -1,4 +1,4 @@
-# WDI Everything Conf 
+# WDI Everything Conference
 
 #Topic- Hackintosh
 
